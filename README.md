@@ -22,4 +22,7 @@ A program allowing the user to encode and decode a string using an alphabet shif
 ## Trivia Game
 A [quick game of trivia](https://github.com/Yorklag/Trivia) that asks the players questions and tells them the answer to ones of questions. created for a test of player input usage and validation.
 
+## Substitiution Cipher Gui
+A [substitution cipher](https://github.com/Yorklag/Substitution-cipher-gui) made in class and adjusted to use gui.
+
 Layout for page inspired by Janell Baxter
